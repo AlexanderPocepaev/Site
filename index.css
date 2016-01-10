@@ -1,0 +1,14 @@
+﻿
+
+.button{
+    display: block;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background: #red;
+    cursor: pointer;
+    
+    border-radius: 20%;
+    
+        
+}
